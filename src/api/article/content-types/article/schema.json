@@ -52,6 +52,11 @@
         "shared.quote",
         "shared.rich-text"
       ]
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.seo"
     }
   }
 }
